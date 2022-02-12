@@ -1,5 +1,5 @@
 #video: https://www.youtube.com/watch?v=iItjGvgz7mQ
-
+#only windows
 import os;
 import subprocess
 
