@@ -5,7 +5,7 @@ from urllib.request import urlopen
 url = 'https://raw.githubusercontent.com/AlexNoRick/NoRiCkRolL/main/CnctWeb/ver';
 output = urlopen(url).read();
 f = open("CnctWeb/ver", "r")
-o = f.read())
+o = f.read()
 if output == o:
 from sys import platform
 if platform == "linux" or platform == "linux2":
