@@ -1,3 +1,5 @@
+#video: https://www.youtube.com/watch?v=iItjGvgz7mQ
+
 import os;
 import subprocess
 
