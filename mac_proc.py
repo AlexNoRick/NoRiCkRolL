@@ -3,5 +3,5 @@
 import os;
 import subprocess
 
-os.startfile("https://www.youtube.com/watch?v=dQw4w9WgXcQ");
+os.startfile("https://youtu.be/vjjFjuf7NBQ");
 
